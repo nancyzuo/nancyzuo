@@ -5,7 +5,7 @@
  </p>
 
 ### Hello, I'm Nancy! 👋
-I'm a product designer based in California, and I'm interested in designing for _social & learning experiences._ In my free time, I like to get involved with hackathons, side projects, write, annoy my three cats :cat:, and spectate my mom's dragonfruit garden from my room window. :dragon:
+I'm a product designer based in California, and I'm interested in designing for _social & learning experiences._ In my free time, I like to get involved with hackathons, side projects, write, annoy my three cats :cat:, and spectate my mom's dragonfruit garden from my room window (I'm working from home this summer). :dragon:
 
 ## Currently:
 * Agency Instructional Design Intern [@ State Farm](https://www.statefarm.com/)
