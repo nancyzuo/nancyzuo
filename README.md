@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, I'm Nancy! 👋
 
-<!--
-**nancyzuo/nancyzuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I'm a product designer based in California, and I'm interested in designing for social and learning experiences. I'm currently a 3rd year Information Systems & Human-Computer Interaction major @ Carnegie Mellon. In my free time, I like to get involved with hackathons, side projects, and write. Thanks for visiting my profile and stay tuned to see more projects!** :seedling:
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
