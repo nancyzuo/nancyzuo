@@ -1,4 +1,5 @@
 ![dancing dragonfruits and oranges zooming in and out delicously](https://media.giphy.com/media/5tmSb8L44ZUyg7fFgx/giphy.gif)
+<img src="https://media.giphy.com/media/5tmSb8L44ZUyg7fFgx/giphy.gif" width="100" height="100" />
 
 ### Hello, I'm Nancy! 👋
 I'm a product designer based in California, and I'm interested in designing for _social and learning experiences._ In my free time, I like to get involved with hackathons, side projects, write, annoy my three cats :cat:, and spectate my mom's dragonfruit garden from my room window. :dragon:
