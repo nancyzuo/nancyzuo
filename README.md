@@ -10,7 +10,6 @@ I'm a product designer based in California, and I'm interested in designing for 
 ### Currently:
 * Agency Instructional Design Intern [@ State Farm](https://www.statefarm.com/)
 * Content Creator [@ Design Buddies](https://www.designbuddies.community/)
-* UX [@ InternHacks](https://internhacks.com/)
 
 <br>
 
