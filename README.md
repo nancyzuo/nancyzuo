@@ -8,6 +8,6 @@
 
 <br>
 
-Thanks for visiting my profile and stay tuned to see more projects! :seedling:
+thanks for visiting my profile and stay tuned to see more projects! :seedling:
 
 [website](http://nzuo.me) • [devpost](https://devpost.com/nancyzuo)
