@@ -10,4 +10,4 @@
 
 thanks for visiting my profile and stay tuned to see more projects! :seedling:
 
-[website]([http://nzuo.m](https://nancyzuo.com/)) • [devpost](https://devpost.com/nancyzuo) • [youtube](https://www.youtube.com/@nzzuo) • [substack](https://nzzuo.substack.com/)
+[website](https://nancyzuo.com/) • [devpost](https://devpost.com/nancyzuo) • [youtube](https://www.youtube.com/@nzzuo) • [substack](https://nzzuo.substack.com/)
